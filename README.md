@@ -68,6 +68,18 @@ Path: /hono-cloudflare/SKILL.md
 Purpose:
 Helps AI build robust and maintainable backend APIs using Hono and Cloudflare Workers, following Workers runtime constraints, Cloudflare services, API design, security, validation, and performance best practices.
 
+---
+
+### Planning
+
+
+```text
+Path: /planning/SKILL.md
+```
+
+Purpose:
+Helps AI analyze coding requirements, break them into actionable tasks, and determine the correct implementation order.
+
 ## Skill URL
 
 Combine `Base URL` with a skill `Path`.
@@ -86,6 +98,7 @@ Use the appropriate skill based on the task:
 * UI layout, visual design, styling, responsive design, typography, accessibility, or user experience → `ui-design`
 * Hono routes, middleware, API endpoints, or Hono architecture → `hono-cloudflare`
 * Cloudflare Workers, D1, KV, R2, Durable Objects, Queues, bindings, or Workers runtime → `hono-cloudflare`
+* Planning coding tasks, breaking down requirements, implementation strategy, or task dependencies → `planning`
 
 Multiple skills can be loaded when a task requires them.
 

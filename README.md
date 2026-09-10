@@ -44,7 +44,19 @@ Path: /code-review/SKILL.md
 Purpose:
 Helps AI review code for bugs, security issues, performance problems, maintainability, and overall code quality.
 
-## Skill URLs
+---
+
+### UI Design
+
+
+```text
+Path: /ui-design/SKILL.md
+```
+
+Purpose:
+Helps AI build polished, modern, consistent, and user-friendly interfaces with strong visual hierarchy, spacing, typography, responsive layouts, accessibility, and interaction design.
+
+## Skill URL
 
 Combine `Base URL` with a skill `Path`.
 
@@ -59,6 +71,7 @@ Use the appropriate skill based on the task:
 * React component, UI, hooks, or React architecture → `react-coding`
 * TypeScript types, interfaces, generics, or type safety → `typescript`
 * Code auditing, debugging, or quality review → `code-review`
+* UI layout, visual design, styling, responsive design, typography, accessibility, or user experience → `ui-design`
 
 Multiple skills can be loaded when a task requires them.
 

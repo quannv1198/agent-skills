@@ -56,6 +56,18 @@ Path: /ui-design/SKILL.md
 Purpose:
 Helps AI build polished, modern, consistent, and user-friendly interfaces with strong visual hierarchy, spacing, typography, responsive layouts, accessibility, and interaction design.
 
+---
+
+### Hono + Cloudflare Workers
+
+
+```text
+Path: /hono-cloudflare/SKILL.md
+```
+
+Purpose:
+Helps AI build robust and maintainable backend APIs using Hono and Cloudflare Workers, following Workers runtime constraints, Cloudflare services, API design, security, validation, and performance best practices.
+
 ## Skill URL
 
 Combine `Base URL` with a skill `Path`.
@@ -72,6 +84,8 @@ Use the appropriate skill based on the task:
 * TypeScript types, interfaces, generics, or type safety → `typescript`
 * Code auditing, debugging, or quality review → `code-review`
 * UI layout, visual design, styling, responsive design, typography, accessibility, or user experience → `ui-design`
+* Hono routes, middleware, API endpoints, or Hono architecture → `hono-cloudflare`
+* Cloudflare Workers, D1, KV, R2, Durable Objects, Queues, bindings, or Workers runtime → `hono-cloudflare`
 
 Multiple skills can be loaded when a task requires them.
 

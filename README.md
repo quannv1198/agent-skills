@@ -5,7 +5,7 @@ Skills for AI coding agents.
 ## Base URL
 
 ```text
-https://your-skill-host.com/skills
+https://raw.githubusercontent.com/quannv1198/agent-skills/refs/heads/master
 ```
 
 ## Available Skills
